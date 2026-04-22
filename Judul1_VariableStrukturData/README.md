@@ -1,4 +1,24 @@
-<h1 style='text-align: center'>Kasir Toko</h1>
-<p>Sebuah Program yang saya buat untuk menyelesaikan Tugas Akhir dari Praktikum Struktur Data pada judul satu. mengenai <b>VariableStrukturData</b></p>
+<h1 style='text-align: center'>Management Gudang</h1>
+<p>Sebuah Program yang saya buat untuk menyelesaikan Tugas Akhir dari Praktikum Struktur Data pada judul satu yaitu mengenai <b>VariableStrukturData</b>. Pada tugas akhir ini, saya memilih untuk membuat sebuah program untuk mengatur atau mendata sebuah barang pada gudang dan kali ini menggunakan List1D.</p>
+<h3>Mengapa Pilih ini?</h3>
+<p>Saya memilih management gudang sebagai tugas akhir dikarenakan menurut saya, program ini sangat diperlukan terutama pada sebuah tempat usaha seperti:</p>
 
-<p>Pada tugas akhir ini, saya memilih untuk membuat sebuah Kasir Toko dan menggunakan List1D</p>
+- Minimarket (Alfamart, Indomaret, dll)
+- Toko Sembako, Toko Bangunan
+- Apotik
+
+<h3>Kapan ini dapat digunakan?</h3>
+Program ini dapat digunakan ketika ada barang yang masuk atau keluar kedalam toko dan perlu dicatat (tanpa perlu pencatatan manual), dan juga ini bisa dimanfaatkan untuk melihat stok barang yang tersedia.
+<br/>
+<br/>
+<br/>
+<h4>Penjelasan kode yang saya buat</h4>
+
+![ss-pertama](image.png)
+<p>Pada baris pertama saya membuat sebuah fungsi `menu_utama()` ini berguna untuk menampilkan menu apasaja yang tersedia di dalam program ini.</p>
+<p>Pada baris ke 12 merupakan fungsi utama dari program ini. ini merupakan fungsi yang didalam nya berisi kode yang membuat program ini berjalan dengan sempurna</p>
+<p>pada baris ke 13 dan 14, saya mendeklarasikan sebuah variable dengan nama nya `daftar_barang` dan `harga_barang` yang dimana isi nya adalah sebuah List. dibawah nya ada variable `running = True` jadi pada saat program dijalankan, maka variable running yang menjadi penentu akan muncul nya dialog atau tidaka, dalam perulangan</p>
+<p>Disini saya menggunakan perulangan `while` dan melihat kondisi dari `running`, jika `running` bersifat True maka program akan terus berjalan, dan jika false maka program akan berhenti</p>
+
+![ss-kedua](image-1.png)
+![ss-ketiga](image-2.png)
