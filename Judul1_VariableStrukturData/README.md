@@ -20,9 +20,9 @@ Program ini dapat digunakan ketika ada barang yang masuk atau keluar kedalam tok
 <br/>
 <h4>Penjelasan kode yang saya buat</h4>
 
-![ss-pertama](image.png)
-![ss-kedua](image-1.png)
-![ss-ketiga](image-2.png)
+![ss-pertama](assets/image.png)
+![ss-kedua](assets/image-1.png)
+![ss-ketiga](assets/image-2.png)
 
 <p>Pada baris awal saya membuat sebuah fungsi <code>menu_utama()</code> ini berguna untuk menampilkan menu apasaja yang tersedia di dalam program ini.</p>
 <p>baris ke 12 merupakan fungsi utama dari program ini. ini merupakan fungsi yang didalam nya berisi kode yang membuat program ini berjalan dengan sempurna</p>
@@ -37,9 +37,9 @@ Program ini dapat digunakan ketika ada barang yang masuk atau keluar kedalam tok
 
 <h3>Screenshoot Output</h3>
 
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
+![hasil-output](assets/image-3.png)
+![hasil-output2](assets/image-4.png)
+![hasil-output3](assets/image-5.png)
 
 <h2>Video Penjelasan</h2>
 ![Youtube](https://)
