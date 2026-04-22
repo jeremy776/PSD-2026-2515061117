@@ -21,7 +21,7 @@ def main():
             
             if pilih_menu == 1:
                 print(' ')
-                print('            Penambahan Prduk            ')
+                print('            Penambahan Prdouk            ')
                 print(' ')
                 running_add_product = 'y'
                 while running_add_product.lower() == 'y':
@@ -34,7 +34,7 @@ def main():
                         daftar_barang += [barang_baru.lower()]
                         daftar_harga += [harga_barang]
                         print('')
-                        print(f'Poduk baru telah di tambahkan:\n {barang_baru.capitalize()} - Rp. 3{harga_barang}')
+                        print(f'Poduk baru telah di tambahkan:\n {barang_baru.capitalize()} - Rp. {harga_barang}')
                         print('')
                         running_add_product = input('Mau tambah produk lagi? (y/n): ')
                         print('')
