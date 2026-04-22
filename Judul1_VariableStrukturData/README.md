@@ -15,10 +15,11 @@ Program ini dapat digunakan ketika ada barang yang masuk atau keluar kedalam tok
 <h4>Penjelasan kode yang saya buat</h4>
 
 ![ss-pertama](image.png)
-<p>Pada baris pertama saya membuat sebuah fungsi `menu_utama()` ini berguna untuk menampilkan menu apasaja yang tersedia di dalam program ini.</p>
+<p>Pada baris pertama saya membuat sebuah fungsi <code>menu_utama()</code> ini berguna untuk menampilkan menu apasaja yang tersedia di dalam program ini.</p>
 <p>Pada baris ke 12 merupakan fungsi utama dari program ini. ini merupakan fungsi yang didalam nya berisi kode yang membuat program ini berjalan dengan sempurna</p>
-<p>pada baris ke 13 dan 14, saya mendeklarasikan sebuah variable dengan nama nya `daftar_barang` dan `harga_barang` yang dimana isi nya adalah sebuah List. dibawah nya ada variable `running = True` jadi pada saat program dijalankan, maka variable running yang menjadi penentu akan muncul nya dialog atau tidaka, dalam perulangan</p>
-<p>Disini saya menggunakan perulangan `while` dan melihat kondisi dari `running`, jika `running` bersifat True maka program akan terus berjalan, dan jika false maka program akan berhenti</p>
+<p>pada baris ke 13 dan 14, saya mendeklarasikan sebuah variable dengan nama nya <code>daftar_barang</code> dan <code>harga_barang</code> yang dimana isi nya adalah sebuah List. dibawah nya ada variable <code>running = True</code> jadi pada saat program dijalankan, maka variable running yang menjadi penentu akan muncul nya dialog atau tidaka, dalam perulangan</p>
+<p>Disini saya menggunakan perulangan <code>while</code> dan melihat kondisi dari <code>running</code>, jika <code>running</code> bersifat True maka program akan terus berjalan, dan jika false maka program akan berhenti</p>
+<br/>
 
 ![ss-kedua](image-1.png)
 ![ss-ketiga](image-2.png)
