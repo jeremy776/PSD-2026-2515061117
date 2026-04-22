@@ -42,4 +42,5 @@ Program ini dapat digunakan ketika ada barang yang masuk atau keluar kedalam tok
 ![hasil-output3](assets/image-5.png)
 
 <h2>Video Penjelasan</h2>
-![Youtube](https://youtu.be/MAemjakO3ZE?si=4zWywu6YFPbX-54H)
+
+[Youtube](https://youtu.be/MAemjakO3ZE?si=4zWywu6YFPbX-54H)
