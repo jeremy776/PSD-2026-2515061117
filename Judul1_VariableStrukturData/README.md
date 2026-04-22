@@ -15,14 +15,25 @@ Program ini dapat digunakan ketika ada barang yang masuk atau keluar kedalam tok
 <h4>Penjelasan kode yang saya buat</h4>
 
 ![ss-pertama](image.png)
-<p>Pada baris pertama saya membuat sebuah fungsi <code>menu_utama()</code> ini berguna untuk menampilkan menu apasaja yang tersedia di dalam program ini.</p>
-<p>Pada baris ke 12 merupakan fungsi utama dari program ini. ini merupakan fungsi yang didalam nya berisi kode yang membuat program ini berjalan dengan sempurna</p>
+![ss-kedua](image-1.png)
+![ss-ketiga](image-2.png)
+
+<p>Pada baris awal saya membuat sebuah fungsi <code>menu_utama()</code> ini berguna untuk menampilkan menu apasaja yang tersedia di dalam program ini.</p>
+<p>baris ke 12 merupakan fungsi utama dari program ini. ini merupakan fungsi yang didalam nya berisi kode yang membuat program ini berjalan dengan sempurna</p>
 <p>pada baris ke 13 dan 14, saya mendeklarasikan sebuah variable dengan nama nya <code>daftar_barang</code> dan <code>harga_barang</code> yang dimana isi nya adalah sebuah List. dibawah nya ada variable <code>running = True</code> jadi pada saat program dijalankan, maka variable running yang menjadi penentu akan muncul nya dialog atau tidaka, dalam perulangan</p>
 <p>Disini saya menggunakan perulangan <code>while</code> dan melihat kondisi dari <code>running</code>, jika <code>running</code> bersifat True maka program akan terus berjalan, dan jika false maka program akan berhenti</p>
 <p>Ketika perulangan berjalan, disini saya memanggil fungsi <code>menu_utama()</code> ini akan menampilkan semua menu yang tersedia di program ini.</p>
 <p>Saya menggunakan <code>try except</code> untuk mengatasi apabila terjadi error atau ketidak sesuaian pada penginputan nomor</p>
 <p>Setelah itu saya membuat variable <code>pilih_menu</code> yang meminta inputan dari user berupa integer.</p>
+<p>dibawah kode tersebut ada pengkondisian <code>if</code> <code>else</code>. ini berguna untuk mengecek hasil inputan dari user. ketika user memberikan angka yang tepat maka program selanjutnya akan berjalan sesuai dengan keadaan pada <code>if else</code></p>
+<p>dibaris yang ke 86 saya menggunakan except error nya yaitu: <b>ValueError</b> yang berguna untuk mengatasi error dari penginputan user yang tidak sesuai dengan yang diharapkan.</p>
 <br/>
 
-![ss-kedua](image-1.png)
-![ss-ketiga](image-2.png)
+<h3>Screenshoot Output</h3>
+
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+
+<h2>Video Penjelasan</h2>
+![Youtube](https://)
