@@ -4,7 +4,6 @@
 - [Screenshoot Output](https://github.com/jeremy776/PSD-2026-2515061117/tree/main/Judul1_VariableStrukturData#screenshoot-output)
 - [Video Penjelasan](https://github.com/jeremy776/PSD-2026-2515061117/tree/main/Judul1_VariableStrukturData#video-penjelasan)
 <br>  
-<br>  
 <h1 style='text-align: center'>Management Gudang</h1>
 <p>Sebuah Program yang saya buat untuk menyelesaikan Tugas Akhir dari Praktikum Struktur Data pada judul satu yaitu mengenai <b>VariableStrukturData</b>. Pada tugas akhir ini, saya memilih untuk membuat sebuah program untuk mengatur atau mendata sebuah barang pada gudang dan kali ini menggunakan List1D.</p>
 <h3>Mengapa Pilih ini?</h3>
